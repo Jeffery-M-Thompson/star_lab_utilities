@@ -4,5 +4,5 @@ Utilities for working with database files using an l b datasphere from multiple 
 # databaseSetup
 This directory contains the files needed to generate the schema to store the star data.
 
-#graphingUtilities
+# graphingUtilities
 This directory has the utilities to genearte graphs from the database or text files.
